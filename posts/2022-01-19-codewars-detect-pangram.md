@@ -31,7 +31,7 @@ function isPangram(string){
     return true;
 }
 ```
-1. lettes 라는 변수에 키보드 자판 순서대로 알파벳 입력해 넣어준다.
+1. letters 라는 변수에 키보드 자판 순서대로 알파벳 입력해 넣어준다.
 2. 문제에서 대소문자 구분 안한다고 했으므로 string을 소문자로 변환해서 str변수에 넣어준다.
 3. 리턴해 줄 결과 값 변수로 result 변수에 true를 미리 정의 함
 4. letters로 for문을 돌려서 알파벳 하나씩 비교해서 검증 
