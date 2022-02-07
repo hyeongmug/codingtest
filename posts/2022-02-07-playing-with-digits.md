@@ -48,7 +48,6 @@ function digPow(n, p){
   return result;
 }
 ```
-1. 
 
 #### 다른사람이 짠 코드
 ```javascript
