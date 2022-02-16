@@ -9,7 +9,15 @@ domainName("http://www.zombie-bites.com") == "zombie-bites"
 domainName("https://www.cnet.com") == "cnet"
 ```
 
-5kyu 문제인데 이번엔 쉽게 풀어서 이문제가 왜 5kyu인지는 모르겠다.  
+문제 예시에는 안나왔지만 테스트 할 때는 아래 유형들도 테스트한다.
+```
+http://google.com
+http://google.co.jp
+www.xakep.ru
+https://youtube.com
+```
+
+5kyu 문제인데 이번엔 쉽게 풀어서 이 문제가 왜 5kyu인지는 모르겠다.  
 아마 출제자는 다른 방식으로 푸는 걸 의도 한 것 같다.  
 하지만, 나는 그냥 replace로 풀었다.
 
